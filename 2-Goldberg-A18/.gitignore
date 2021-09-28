@@ -1,0 +1,7 @@
+.vs
+Debug
+packages
+*.sln
+gTest1/Debug
+gTest1/*.vcxproj*
+gTest1/*.config
