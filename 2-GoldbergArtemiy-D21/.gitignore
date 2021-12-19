@@ -1,0 +1,6 @@
+*.sln
+.vs/
+Debug/
+Release/
+*.vcxproj*
+*.txt
