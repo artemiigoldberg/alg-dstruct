@@ -1,0 +1,5 @@
+*.sln
+.vs/
+Debug/
+3 laba/Debug/
+3 laba/*.vcxproj*
